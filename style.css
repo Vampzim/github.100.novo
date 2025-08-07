@@ -27,8 +27,8 @@ margin: 20px;
 .item_2 {
   width: 200px;
   height: auto;
-  background-color: rgb(224, 148, 62);
-border: 10px solid rgb(153, 94, 17);
+ background-color: rgb(245, 225, 138);
+border: 10px solid rgb(185, 80, 80);
 padding: 20px;
 margin: 20px;
     
@@ -42,14 +42,30 @@ margin: 20px;
 .item_3 {
   width: 200px;
   height: auto;
-  background-color: rgb(245, 225, 138);
-border: 10px solid rgb(185, 80, 80);
+  background-color: rgb(152, 217, 236);
+border: 10px solid rgb(62, 118, 170);
 padding: 20px;
 margin: 20px;
     
 }
 
 .item_3 img{
+    width: 100%;
+    height: auto;
+}
+
+
+.item_4 {
+  width: 200px;
+  height: auto;
+  background-color: rgb(255, 209, 56);
+border: 10px solid rgb(163, 52, 52);
+padding: 20px;
+margin: 20px;
+    
+}
+
+.item_4 img{
     width: 100%;
     height: auto;
 }
